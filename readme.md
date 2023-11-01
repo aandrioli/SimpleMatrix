@@ -6,4 +6,4 @@ library. So, if you are looking for such a serious lib, keep looking ... (sorry!
 It provides a template class with the most basic matrix operations (addition, transpose, product, hadamard product). 
 I've not worried about how efficient or quick the operations are.
 
-Open [doc/html/index.html](doc/html/index.html) for the documentation.
+Open doc/html/index.html contains the DoxyGen documentation.
